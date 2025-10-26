@@ -1,0 +1,20 @@
+[
+  {
+    "company": "TechCorp",
+    "title": "Python Backend Engineer",
+    "description": "Develop APIs using Python, FastAPI, and PostgreSQL. Collaborate with DevOps teams.",
+    "url": "https://example.com/jobs/techcorp-backend"
+  },
+  {
+    "company": "DataWorks",
+    "title": "Data Scientist",
+    "description": "Machine learning with Python, pandas, scikit-learn. Deploy models to production.",
+    "url": "https://example.com/jobs/dataworks-datascientist"
+  },
+  {
+    "company": "CloudNine",
+    "title": "Site Reliability Engineer",
+    "description": "Ensure reliability of cloud services, work with Kubernetes, monitoring, incident response.",
+    "url": "https://example.com/jobs/cloudnine-sre"
+  }
+]
